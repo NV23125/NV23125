@@ -6,30 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;AWS+Enthusiast;Building+in+the+Cloud;Automating+Everything+☁️" alt="Typing SVG" />
 
-<!-- Animated Yellow Cloud SVG -->
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes cloudMove {
-      0% { transform: translateX(-100px); }
-      45% { transform: translateX(500px); }
-      50% { transform: translateX(520px); }
-      55% { transform: translateX(500px); }
-      100% { transform: translateX(-100px); }
-    }
-    .cloud {
-      animation: cloudMove 8s ease-in-out infinite;
-      fill: #FFD700;
-    }
-  </style>
-  <g class="cloud">
-    <ellipse cx="60" cy="50" rx="30" ry="20"/>
-    <ellipse cx="40" cy="55" rx="25" ry="18"/>
-    <ellipse cx="80" cy="55" rx="28" ry="18"/>
-    <ellipse cx="70" cy="40" rx="35" ry="22"/>
-  </g>
-</svg>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/H62NB7ZWBFevobFi17/giphy.gif" width="500" alt="Moving Cloud">
 
 </div>
 
@@ -156,7 +133,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="1000">
   
 ### 💡 "The cloud is not a place, it's a way of doing IT"
 
