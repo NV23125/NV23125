@@ -107,7 +107,6 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU3cXJ2OGJxZTZqZjBxYnp5aWVkN3NmOXAzNGtpYnoxOTBrNzFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQuvu0LtCEjxYgTcS/giphy.gif" width="100">
 
 ## 🏆 AWS Certifications Journey
 
