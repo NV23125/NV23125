@@ -1,8 +1,12 @@
 <div align="center">
-  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 # ☁️ Welcome to Ali Ayyad's Cloud Journey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;AWS+Enthusiast;Building+in+the+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;AWS+Enthusiast;Building+in+the+Cloud;Automating+Everything+☁️" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -83,6 +87,10 @@ currently_learning:
 
 ---
 
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -113,6 +121,10 @@ me.say_hi()
 
 ---
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU3cXJ2OGJxZTZqZjBxYnp5aWVkN3NmOXAzNGtpYnoxOTBrNzFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kdQuvu0LtCEjxYgTcS/giphy.gif" width="100">
+
 ## 🏆 AWS Certifications Journey
 
 <div align="center">
@@ -140,6 +152,8 @@ me.say_hi()
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
 ### 💡 "The cloud is not a place, it's a way of doing IT"
 
