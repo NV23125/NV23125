@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;AWS+Enthusiast;Building+in+the+Cloud;Automating+Everything+☁️" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500">
 
 </div>
 
@@ -84,22 +84,6 @@ currently_learning:
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NV23125&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&hide_border=false" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NV23125&layout=compact&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" />
-
-</div>
 
 ---
 
