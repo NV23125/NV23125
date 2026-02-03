@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student;AWS+Enthusiast;Building+in+the+Cloud;Automating+Everything+☁️" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" alt="Animated Clouds">
 
 </div>
 
